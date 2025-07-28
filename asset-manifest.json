@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lost-chapa/static/css/main.f855e6bc.css",
+    "main.js": "/lost-chapa/static/js/main.3ca84b54.js",
+    "static/js/453.c55d4bb2.chunk.js": "/lost-chapa/static/js/453.c55d4bb2.chunk.js",
+    "static/media/chapa.jpg": "/lost-chapa/static/media/chapa.0cf7fb5eed9046cd7dd1.jpg",
+    "index.html": "/lost-chapa/index.html",
+    "main.f855e6bc.css.map": "/lost-chapa/static/css/main.f855e6bc.css.map",
+    "main.3ca84b54.js.map": "/lost-chapa/static/js/main.3ca84b54.js.map",
+    "453.c55d4bb2.chunk.js.map": "/lost-chapa/static/js/453.c55d4bb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3ca84b54.js"
+  ]
+}
