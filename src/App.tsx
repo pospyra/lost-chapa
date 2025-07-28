@@ -34,7 +34,7 @@ function App() {
         fontFamily: 'Arial, sans-serif',
         padding: '1rem 1.5rem',
         width: '100%',
-        maxWidth: 700,
+        maxWidth: 600,
         margin: 'auto',
         backgroundColor: '#eef2f7',
         minHeight: '100vh',
